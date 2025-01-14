@@ -9,5 +9,13 @@ This project simulates a distributed system using Python and SQLite. It involves
 - **Data Validation**: Ensures that the data being inserted is valid, including checks for valid email format, valid price range, and valid quantity.
 
 ## Project Structure
+DistributedSystemSimulation/
+├── databases/
+│   ├── users.db
+│   ├── products.db
+│   ├── orders.db
+├── main.py
+├── README.md
+
 
 
